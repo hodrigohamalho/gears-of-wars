@@ -8,6 +8,8 @@ e o PathFinder da cookeandcode http://www.cokeandcode.com/pathfinding.
 Os objetos (tanque de guerra, avião e barco) atiram em todas as direções utilizando o teclado numérico: 1,2,3,4,6,7,8 e 9. Cada um atirando pra uma direção.
 O Avião pode se movimentar para qualquer lugar no mapa, o Tanque de guerra se movimenta apenas na terra e o barco apenas na água (sériooo? kkk).
 
+O A* é utilizada no deslocamento dos objetos que sempre encontra o menor percurso entre dois pontos.
+
 Bom é isso ai, não é um jogo que o player diga "NOSSA quero jogar novamente", mas pra uso didático pode ajudar bastante.
 
 Abraço.
